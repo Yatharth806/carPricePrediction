@@ -19,7 +19,7 @@ This project aims to predict the Price of an used Car by taking it's Company nam
 # Description
 ## What this project does?
    1. This project takes the parameters of an used car like: Company name, Model name, Year of Purchase, Fuel Type and Number of Kilometers it has been driven. 
-2. It then predicts the possible price of the car. For example, the image below shows the predicted price of our Hyundai Grand i10.
+2. It then predicts the possible price of the car. For example, the image below shows the predicted price of our Jagura XF 2.2.
 ## How this project does?
 1. First of all the data was scraped from Quikr.com (https://quikr.com) Link for data:
 2. The data was cleaned (it was super unclean :( ) and analysed.
