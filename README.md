@@ -1,6 +1,7 @@
 
 # Car Price Predictor
-![image alt][https://github.com/Yatharth806/carPricePrediction/blob/main/demo.jpg?raw=true]
+![image alt](https://github.com/Yatharth806/carPricePrediction/blob/main/demo.jpg?raw=true)
+
 
 
 # AIM
