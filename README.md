@@ -1,7 +1,7 @@
 
 # Car Price Predictor
 
-A brief description of what this project does and who it's for
+
 
 # AIM
 This project aims to predict the Price of an used Car by taking it's Company name, it's Model name, Year of Purchase, and other parameters.
