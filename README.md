@@ -6,6 +6,7 @@
 
 # AIM
 This project aims to predict the Price of an used Car by taking it's Company name, it's Model name, Year of Purchase, and other parameters.
+![image alt](https://github.com/Yatharth806/carPricePrediction/blob/main/predict.jpg?raw=true)
 
 # How to use?
     1.Clone the repository
